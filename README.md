@@ -1,4 +1,16 @@
-# Website
+# guifan
+
+本项目为Mirrorgo个人的经验总结
+
+遵循规范以降低试错成本
+
+本项目将包括
+- 技术栈的选择
+- 项目架构的搭建
+- 辅助工具的选择
+- 个人和团队工作流
+
+<!-- # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
@@ -38,4 +50,4 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch. -->
